@@ -5,7 +5,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 🔗 **Live Website:**  
 https://moniruzzaman-badhon.github.io/portfolio/
 
-
+---
 
 ## 📸 Preview
 
@@ -70,6 +70,7 @@ A web application for validating user input and ensuring required information is
 
 **Technologies:** HTML, CSS, JavaScript
 
+---
 
 ## 📂 Project Structure
 
@@ -84,21 +85,3 @@ portfolio/
 ├── style.css
 ├── script.js
 └── README.md
-```
-
-
-# 📚 What I Learned
-
-Through this project, I practiced:
-
-- Semantic HTML structure
-- Responsive CSS layouts
-- JavaScript DOM manipulation
-- Interactive navigation
-- Responsive navigation menu
-- Building reusable UI sections
-- Portfolio website design
-- Organizing frontend projects
-- Deploying a website with GitHub Pages
-
-```
