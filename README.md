@@ -87,18 +87,18 @@ portfolio/
 ```
 
 
-📚 What I Learned
+# 📚 What I Learned
 
 Through this project, I practiced:
 
--Semantic HTML structure
--Responsive CSS layouts
--JavaScript DOM manipulation
--Interactive navigation
--Responsive navigation menu
--Building reusable UI sections
--Portfolio website design
--Organizing frontend projects
--Deploying a website with GitHub Pages
+- Semantic HTML structure
+- Responsive CSS layouts
+- JavaScript DOM manipulation
+- Interactive navigation
+- Responsive navigation menu
+- Building reusable UI sections
+- Portfolio website design
+- Organizing frontend projects
+- Deploying a website with GitHub Pages
 
 ```
