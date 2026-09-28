@@ -126,5 +126,5 @@ Software Engineering Student | Frontend Developer
 
 If you like this project, consider giving the repository a star!
 
-<p align="center"> Built with ❤️ using HTML, CSS & JavaScript </p> ```
+<p align="center"> Built with ❤️ using HTML, CSS & JavaScript </p> 
 
