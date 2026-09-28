@@ -100,3 +100,5 @@ Through this project, I practiced:
 -Portfolio website design
 -Organizing frontend projects
 -Deploying a website with GitHub Pages
+
+```
