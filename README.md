@@ -10,7 +10,7 @@ https://moniruzzaman-badhon.github.io/portfolio/
 ## 📸 Preview
 
 <p align="center">
-  <img src="./files/images/protfolio.png" alt="Portfolio Preview" width="300">
+  <img src="./files/images/protfolio.png" alt="Portfolio Preview" width="800">
 </p>
 
 ---
