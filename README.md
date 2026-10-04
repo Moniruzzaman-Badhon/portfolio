@@ -1,13 +1,13 @@
-# 🌐 Personal Portfolio
+#  Personal Portfolio
 
 A modern and responsive personal portfolio website showcasing my skills, projects, education, resume, and contact information.
 
-🔗 **Live Website:**  
+ **Live Website:**  
 https://moniruzzaman-badhon.github.io/portfolio/
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="./files/images/protfolio.png" alt="Portfolio Preview" width="800">
@@ -15,22 +15,22 @@ https://moniruzzaman-badhon.github.io/portfolio/
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🏠 Modern hero section
-- 👨‍💻 About Me section
-- 🛠️ Skills showcase
-- 🚀 Projects section
-- 📄 Resume download
-- 📧 Contact section
-- 📱 Responsive design
-- 🎨 Clean and user-friendly interface
-- 📋 Navigation menu
-- ⚡ Interactive JavaScript functionality
+-  Modern hero section
+-  About Me section
+-  Skills showcase
+-  Projects section
+-  Resume download
+-  Contact section
+-  Responsive design
+-  Clean and user-friendly interface
+-  Navigation menu
+-  Interactive JavaScript functionality
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -40,7 +40,7 @@ https://moniruzzaman-badhon.github.io/portfolio/
 
 ---
 
-## 💻 Skills Showcased
+##  Skills Showcased
 
 - HTML
 - CSS
@@ -53,26 +53,26 @@ https://moniruzzaman-badhon.github.io/portfolio/
 
 ---
 
-## 🚀 Projects Featured
+##  Projects Featured
 
-### 🛒 Vendor Link Market
+###  Vendor Link Market
 A full-stack web application designed to connect customers with vendors and products.
 
 **Technologies:** React, CSS, Node.js, Express.js, MySQL
 
-### 🎵 Music Player
+###  Music Player
 A responsive JavaScript music player with playback, progress, and volume controls.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 📋 Form Validation
+###  Form Validation
 A web application for validating user input and ensuring required information is correctly entered.
 
 **Technologies:** HTML, CSS, JavaScript
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 portfolio/
@@ -88,7 +88,7 @@ portfolio/
 ```
 
 
-📚 What I Learned
+ What I Learned
 ---
 Through this project, I practiced:
 
@@ -104,18 +104,18 @@ Through this project, I practiced:
 ---
 
 
-🔮 Future Improvements
+ Future Improvements
 ---
-⚛️ Rebuild the portfolio using React
-🌙 Add Dark / Light mode
-✨ Add more advanced animations
-📊 Add project filtering
-📬 Improve contact form functionality
-🚀 Add more projects and case studies
-📱 Further optimize mobile experience
+ Rebuild the portfolio using React
+ Add Dark / Light mode
+ Add more advanced animations
+ Add project filtering
+ Improve contact form functionality
+ Add more projects and case studies
+ Further optimize mobile experience
 
 
-👨‍💻 Author
+ Author
 ---
 Md. Moniruzzaman Badhon
 
